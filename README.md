@@ -8,14 +8,14 @@ Implement semantic HTML for better accessibility and SEO.
 ## Instructions
 
 - Create an index.html file.
-- Structure the document using <!DOCTYPE html>, <html>, <head>, and <body>.
+- Structure the document using DOCTYPE, html, head, and body.
 
 >[!NOTE]
 >  - Include at least:
->  - A <header> with a title.
->  - A <nav> with links.
->  - A <main> section with some text content.
->  - A <footer> with contact information.
+>  - A header with a title.
+>  - A nav with links.
+>  - A main section with some text content.
+>  - A footer with contact information.
 >Ensure proper indentation and commenting.
 
 # Tasks
